@@ -354,7 +354,7 @@ body {
 #about .wrapper {
 	max-width: 80%;
 	margin: auto;
-	margin-right: 10%
+	margin-left: 20%
 }
 #about .wrapper_2 {
 	max-width: 50%;
@@ -363,7 +363,7 @@ body {
 }
 @media (min-width: 768px) {
 	#about .wrapper {
-		margin-right: 24%;
+		margin-right: 0%;
 	}
 }
 
